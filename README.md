@@ -3,7 +3,7 @@
 Aplikasi pemesanan paket wisata sederhana berbasis Flutter yang menerapkan **Navigation dan Routing**. Aplikasi dapat dijalankan di Android maupun web dengan tampilan responsif.
 
 ## Demo Aplikasi
-https://youtu.be/WJ9i1ZQD1EI
+https://youtube.com/shorts/8TYnI7CrNYg?si=Z6RZsffMJ08Wq2O5
 
 ## Fitur
 - **Splash Screen**: logo animasi dan tombol "Mulai Eksplorasi" (`pushReplacementNamed`).
