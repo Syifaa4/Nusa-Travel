@@ -104,7 +104,6 @@ assets/
 ### SnackBar setelah pemesanan berhasil
 <img width="340" height="49" alt="Screenshot 2026-10-23 085727" src="https://github.com/user-attachments/assets/c52175fd-b361-4c31-a49f-b14cf523a8a4" />
 
-
 ### Dialog Logout
 <img width="185" height="123" alt="image" src="https://github.com/user-attachments/assets/68b59a78-c512-44a6-9f6d-cead0136f353" />
 
@@ -115,5 +114,8 @@ Buka alamat yang tidak terdaftar, misalnya di web:
 ```
 http://localhost:<port>/#/ngasal
 ```
-
 Rute yang tidak dikenal akan ditangani oleh `onUnknownRoute`.
+## Identitas
+**Nama:** Syifa Nurul Afifah  
+**NIM:** 20240040286  
+**Prodi/Kelas:** Teknik Informatika - TI24 G
